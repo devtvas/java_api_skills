@@ -12,13 +12,13 @@ para mostrar conhecimentos basicos
 - 9099
 
 ##como testar api
-- crie uma requisicao do tipo GET
+- crie uma requisicao do tipo [GET]
 - cole o endpoint http://localhost:9099/tarcisio/skills
 
 -
 
 [x] pronto!
-resultado esperado aqui abaixo:
+- resultado esperado aqui abaixo:
 
 ```
 {
