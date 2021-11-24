@@ -1,4 +1,4 @@
-# java_api_skills
+> java_api_skills
 api contruida em java
 para mostrar conhecimentos basicos
 
@@ -17,10 +17,10 @@ para mostrar conhecimentos basicos
 
 -
 
-pronto!
+[x] pronto!
 resultado esperado aqui abaixo:
 
-´
+```
 {
     "DEV_TVAS": [
         "Nome: Tarcisio Valentim Araujo da Silva",
@@ -30,6 +30,6 @@ resultado esperado aqui abaixo:
         "Tecnicas[Java, Spring, Angular, SQL]"
     ]
 }
-
+```
 
 by @devtvas
